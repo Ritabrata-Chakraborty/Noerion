@@ -1,0 +1,6 @@
+{
+  "name": "Noreion",
+  "description": "A clean, modern, single-page landing website for a stealth robotics startup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
